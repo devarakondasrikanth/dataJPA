@@ -1,4 +1,4 @@
-package com.srikanth.spring.encryption;
+package com.spring.io.srikanth.encryption;
 
 import java.io.File;
 import java.io.IOException;
